@@ -47,6 +47,10 @@ We have one project active:
 
 We have weekly meetings that are currently private. We will soon start taking notes and publishing them.
 
+## Support
+
+For support in using this library, please join the **#lib_pydp** Slack channel. If you’d like to follow along with any code changes to the library, please join the **#code_roadmap** Slack channel. [Click here to join our Slack community!](https://slack.openmined.org)
+
 ## Curious? Want to help? Have questions?
 
 If you're interested in potentially joining this team, please fill in [this form](https://docs.google.com/forms/d/1XXlPDBkV2xOZmMZMSyw-_KAAjs93CLWmp4Gb0Ql-s_g).
