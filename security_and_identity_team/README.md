@@ -232,6 +232,10 @@ If you're already a contributor to PySyft, and if you're interested to to work o
 
 <b><a href="workmap.pdf"> Feel free to run with anything on our Workmap!</a></b>
 
+## Support 
+
+For support in using this library, please join the **#team_security_and_identity** Slack channel. If you’d like to follow along with any code changes to the library, please join the **#code_roadmap** Slack channel. [Click here to join our Slack community!](https://slack.openmined.org)
+
 ### Have questions?
 - [**@Adam J Hall** on Slack](https://app.slack.com/client/T6963A864/C69RB18LA/user_profile/UFQ4YUPMJ)
 - [**@Adam James Hall** on Linkedin](https://www.linkedin.com/in/adam-james-hall-1b0229113/)
