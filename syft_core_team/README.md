@@ -40,6 +40,10 @@ The team leader is [**Andrew Trask**](https://github.com/iamtrask). Our team is 
 
 We have weekly meetings that are currently private, [but we take detailed notes for each meeting](./meetings). Here you can will find our weekly status updates: where each member of our team has recorded what they worked on the previous week and what they plan to work on in the upcoming week.
 
+## Support 
+
+For support in using this library, please join the **#lib_pysyft** Slack channel. If you’d like to follow along with any code changes to the library, please join the **#code_roadmap** Slack channel. [Click here to join our Slack community!](https://slack.openmined.org)
+
 ## Curious? Want to help? Have questions?
 
 If you're interested in potentially joining this team, please be sure to contact Patrick Cason below:
