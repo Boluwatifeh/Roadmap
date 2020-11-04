@@ -210,6 +210,8 @@ If you are interested to to work on cryptography related use cases, you should d
 
 ### Have questions?
 
-Reach us on [Slack](http://slack.openmined.org/)!
+For support in using this library, please join the **#team_crypto** Slack channel. If you’d like to follow along with any code changes to the library, please join the **#code_roadmap** Slack channel. [Click here to join our Slack community!](https://slack.openmined.org)
+
+
 
 Or on Twitter: [**@theoryffel**](https://twitter.com/theoryffel) [**@y0uben11**](https://twitter.com/y0uben11) [**@GeorgeMuraru**](https://twitter.com/GeorgeMuraru) [**@michaelhoeh**](https://twitter.com/michaelhoeh) 
